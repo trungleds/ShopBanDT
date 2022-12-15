@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopTrungMVC", "ShopTrungMVC\ShopTrungMVC.csproj", "{F52EB1F1-4D6F-40CA-9817-E8E74071786E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{30A3719F-826C-4866-938B-98EF8D88C8FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F52EB1F1-4D6F-40CA-9817-E8E74071786E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52EB1F1-4D6F-40CA-9817-E8E74071786E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52EB1F1-4D6F-40CA-9817-E8E74071786E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52EB1F1-4D6F-40CA-9817-E8E74071786E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A3719F-826C-4866-938B-98EF8D88C8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A3719F-826C-4866-938B-98EF8D88C8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A3719F-826C-4866-938B-98EF8D88C8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A3719F-826C-4866-938B-98EF8D88C8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DAA2034-94BE-47C1-993B-8C94818BE449}
+	EndGlobalSection
+EndGlobal
